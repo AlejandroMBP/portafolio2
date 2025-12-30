@@ -23,9 +23,9 @@ export default function ProfileCard() {
             <div className="flex items-center gap-2 px-3 py-2 border-amber-50/50 border-1 bg-gray-950/50 rounded-full text-sm text-white">
               <div className="w-2 h-2 bg-orange-500 rounded-full animate-pulse"></div>
               <span>
-                Available for{" "}
+                Habilitados{" "}
                 <span className="font-semibold text-orange-400">
-                  3 projects
+                  5 proyectos
                 </span>
               </span>
             </div>
