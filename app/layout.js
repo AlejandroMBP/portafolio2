@@ -51,6 +51,8 @@ export default function RootLayout({ children }) {
   return (
     <html lang="es">
       <head>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7157260105016499"
+     crossorigin="anonymous"></script>
         <link rel="icon" href="/favicon.ico" />
       </head>
       <body className={`${outfit.variable} ${firaCode.variable} antialiased`}>
